@@ -1,0 +1,45 @@
+{
+  "cats": ["pixel", "moto"],
+  "models": [
+    {
+      "id": "p8a",
+      "cat": "pixel",
+      "name": "Pixel 8a",
+      "chip": "Tensor G3",
+      "ram": "8 GB",
+      "variants": [
+        { "storage": "128 GB", "price": 499 }
+      ]
+    },
+    {
+      "id": "p9a",
+      "cat": "pixel",
+      "name": "Pixel 9a",
+      "chip": "Tensor G4",
+      "ram": "8 GB",
+      "variants": [
+        { "storage": "128 GB", "price": 599 }
+      ]
+    },
+    {
+      "id": "p10a",
+      "cat": "pixel",
+      "name": "Pixel 10a",
+      "chip": "Tensor G5",
+      "ram": "8 GB",
+      "variants": [
+        { "storage": "128 GB", "price": 699 }
+      ]
+    },
+    {
+      "id": "g34",
+      "cat": "moto",
+      "name": "Moto G34",
+      "chip": "Snapdragon 695",
+      "ram": "8 GB",
+      "variants": [
+        { "storage": "128 GB", "price": 259 }
+      ]
+    }
+  ]
+}
